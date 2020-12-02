@@ -1,32 +1,30 @@
 {
-	"name": "frontendfoxes",
-	"version": "1.0.0",
-	"description": "My NPM Business Card",
-	"main": "./bin/index.js",
-	"bin": {
-		"frontendfoxes": "bin/index.js"
-	},
-	"scripts": {
-		"dev": "node ./bin/index.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/frontendfoxes/card.git"
-	},
-	"author": "Front-End Foxes <info@frontendfoxes.oprg> (https://www.frontendfoxes.org)",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/frontendfoxes/card/issues"
-	},
-	"homepage": "https://github.com/frontendfoxes/card#readme",
-	"devDependencies": {
-		"standard": "^12.0.1"
-	},
-	"dependencies": {
-		"npmcard": "^1.0.2"
-	},
-	"keywords": [
-		"frontend",
-		"women"
-	]
+  "name": "lefkowitz",
+  "version": "1.0.0",
+  "description": "My NPM Business Card",
+  "main": "./bin/index.js",
+  "bin": {
+    "lefkowitz": "bin/index.js"
+  },
+  "scripts": {
+    "dev": "node ./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lefkowitz/card.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lefkowitz/card/issues"
+  },
+  "homepage": "https://github.com/lefkowitz/card#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "npmcard": "^1.0.2"
+  },
+  "keywords": [
+    "lefkowitz"
+  ]
 }

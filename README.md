@@ -7,7 +7,7 @@ Shows my NPM card in the terminal.
 ## Try it
 
 ```sh
-$ npx frontendfoxes
+$ npx lefkowitz
 ```
 
 ## Create your own
