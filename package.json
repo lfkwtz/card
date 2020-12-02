@@ -1,7 +1,6 @@
 {
   "name": "lefkowitz",
-  "version": "1.0.0",
-  "description": "My NPM Business Card",
+  "version": "0.0.1",
   "main": "./bin/index.js",
   "bin": {
     "lefkowitz": "bin/index.js"
